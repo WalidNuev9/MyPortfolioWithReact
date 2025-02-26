@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MyPortfolioWithReact/static/css/main.6963b945.css",
+    "main.js": "/MyPortfolioWithReact/static/js/main.a7326896.js",
+    "static/media/altumcode.jpg": "/MyPortfolioWithReact/static/media/altumcode.991958a4edf46f7dc598.jpg",
+    "static/media/bootstrap-icons.woff?": "/MyPortfolioWithReact/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/bootstrap-icons.woff2?": "/MyPortfolioWithReact/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
+    "static/media/pdp-image.jpeg": "/MyPortfolioWithReact/static/media/pdp-image.180fe509b9961cdcf8a3.jpeg",
+    "static/media/hacker.jpg": "/MyPortfolioWithReact/static/media/hacker.bf02594c8ab2632551ee.jpg",
+    "index.html": "/MyPortfolioWithReact/index.html",
+    "main.6963b945.css.map": "/MyPortfolioWithReact/static/css/main.6963b945.css.map",
+    "main.a7326896.js.map": "/MyPortfolioWithReact/static/js/main.a7326896.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6963b945.css",
+    "static/js/main.a7326896.js"
+  ]
+}
